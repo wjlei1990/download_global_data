@@ -1,0 +1,13 @@
+ PDE 2001 10 21 00 29 21.50  -37.1400  178.9800  18.0 6.6 6.8 OFF E. COAST OF N. ISLAND, N.Z.
+event name:         C102101A
+time shift:           5.5916
+half duration:        5.1000
+latitude:           -37.0300
+longitude:          179.8200
+depth:               15.0000
+Mrr:           -2.553293E+25
+Mtt:           -1.674116E+25
+Mpp:            4.227409E+25
+Mrt:           -2.050228E+25
+Mrp:            5.830336E+25
+Mtp:            1.077912E+26

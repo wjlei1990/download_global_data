@@ -1,0 +1,13 @@
+ PDE 2001 04 09 09 00 57.20  -32.6700  -73.1100  11.0 6.7 6.3 OFF COAST OF CENTRAL CHILE
+event name:         C040901A
+time shift:           8.8217
+half duration:        5.2000
+latitude:           -32.8800
+longitude:          -73.2300
+depth:               15.0000
+Mrr:           -1.247383E+26
+Mtt:            3.527001E+25
+Mpp:            8.946825E+25
+Mrt:            2.468900E+24
+Mrp:           -5.878334E+24
+Mtp:            8.370748E+25

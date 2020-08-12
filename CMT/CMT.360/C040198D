@@ -1,0 +1,13 @@
+ PDE 1998 04 01 22 42 56.90  -40.3200  -74.8700   9.0 6.7 6.0 OFF COAST OF SOUTHERN CHILE
+event name:         C040198D
+time shift:           7.3444
+half duration:        4.5000
+latitude:           -40.6400
+longitude:          -75.3700
+depth:               15.0000
+Mrr:           -1.324362E+26
+Mtt:            9.090963E+24
+Mpp:            1.233453E+26
+Mrt:            1.683512E+24
+Mrp:           -3.928194E+24
+Mtp:            4.175109E+25
