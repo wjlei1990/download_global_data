@@ -1,0 +1,13 @@
+ PDE 2006 04 15 23 50 14.70  -29.7700  -72.0000  19.8 6.0 6.0 OFF COAST OF CENTRAL CHILE
+event name:   C200604152350B
+time shift:           0.9000
+half duration:        2.4000
+latitude:           -29.7100
+longitude:          -72.2900
+depth:               12.0000
+Mrr:            9.990000E+24
+Mtt:            8.000000E+22
+Mpp:           -1.010000E+25
+Mrt:           -1.060000E+24
+Mrp:           -7.280000E+24
+Mtp:           -6.400000E+23

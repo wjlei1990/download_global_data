@@ -1,0 +1,13 @@
+ PDE 2006 05 21 02 07 36.40    1.5500  -85.3100  10.0 6.0 6.0 OFF COAST OF ECUADOR
+event name:   C200605210207A
+time shift:           3.2000
+half duration:        2.5000
+latitude:             1.4800
+longitude:          -85.3400
+depth:               13.7000
+Mrr:            6.600000E+23
+Mtt:            2.780000E+24
+Mpp:           -3.440000E+24
+Mrt:           -1.600000E+23
+Mrp:            2.050000E+24
+Mtp:            1.250000E+25

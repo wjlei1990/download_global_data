@@ -1,0 +1,13 @@
+ PDE 2019 06 14 00 19 12.40  -30.0600  -72.0800  11.0 6.3 6.4 OFF COAST OF CENTRAL CHILE
+event name:   C201906140019A
+time shift:           5.9000
+half duration:        3.5000
+latitude:           -30.1200
+longitude:          -72.1600
+depth:               12.0000
+Mrr:            2.430000E+25
+Mtt:            6.100000E+23
+Mpp:           -2.500000E+25
+Mrt:           -1.710000E+24
+Mrp:           -2.710000E+25
+Mtp:           -1.080000E+24
